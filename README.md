@@ -1,8 +1,6 @@
 # Twitter-Sentiment-Analysis---NLP
 
-# Sentiment-Analysis-Twitter
-
-##    -Ayush Pareek
+##    -Sandeep Nallapu
 
 [Click here to see a video about this work](https://www.youtube.com/watch?v=rM87H75JNjA)
 
