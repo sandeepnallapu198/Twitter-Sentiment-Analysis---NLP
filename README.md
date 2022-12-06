@@ -3,39 +3,7 @@
 ##    -Sandeep Nallapu
 
 SENTIMENT ANALYSIS OF TWITTER FEEDS  
-===================================
 
-If you find this repository useful, please consider citing our work:
-```
-@inproceedings{garg2014sentiment,
-  title={Sentiment analysis of twitter feeds},
-  author={Garg, Yogesh and Chatterjee, Niladri},
-  booktitle={International Conference on Big Data Analytics},
-  pages={33--52},
-  year={2014},
-  organization={Springer}
-}
-```
-
-
-![Figure](docs/jul14/img/iitd_logo_128.png)  
-DEPARTMEMT OF MATHEMATICS  
--------------------------
-INDIAN INSTITUTE OF TECHNOLOGY, DELHI  
--------------------------------------  
-  
-  
-  
-  
-  
-  
-  
-
-###  Yogesh Garg  
-
-###  Dr. Niladri Chatterjee  
-
-### July, 2014
 
 
 # Contents
